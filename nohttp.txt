@@ -84,9 +84,13 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.dorcus.digital:1337/announce
 
+udp://tracker.ducks.party:1984/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -96,6 +100,8 @@ udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.peerfect.org:6969/announce
+
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
@@ -103,8 +109,6 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.riverarmy.xyz:6969/announce
-
-udp://tracker.sharebro.in:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
