@@ -54,8 +54,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://seedpeer.net:6969/announce
-
 udp://shahidrazi.online:1984/announce
 
 udp://t.overflow.biz:6969/announce
@@ -116,6 +114,8 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -129,8 +129,6 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.trackarr.org:6969/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
