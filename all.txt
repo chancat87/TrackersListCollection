@@ -1,7 +1,5 @@
 http://004430.xyz:80/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://107.189.2.131:1337/announce
 
 http://1337.abcvg.info:80/announce
@@ -12,19 +10,17 @@ http://207.241.231.226:6969/announce
 
 http://announce.sktorrent.eu:6969/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
 
-http://ftp.pet:2710/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
+
+http://retracker.spark-rostov.ru:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
@@ -39,8 +35,6 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.lintk.me:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -164,6 +158,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 udp://torrent.tracker.durukanbal.com:6969/announce
@@ -241,8 +237,6 @@ udp://tracker.therarbg.to:1337/announce
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
