@@ -26,7 +26,11 @@ http://t.overflow.biz:6969/announce
 
 http://torrentsmd.com:8080/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -39,6 +43,8 @@ http://tracker.nexusstream.eu:6969/announce
 http://tracker.opentorrent.top:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -60,9 +66,9 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://open.ftorrent.com:443/announce
+https://ht.therarbg.to:443/announce
 
-https://pybittrack.retiolus.net:443/announce
+https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -71,6 +77,8 @@ https://tr.abiir.top:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -108,8 +116,6 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://coeus.torrentonline.cc:42069/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -126,8 +132,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://obey.torrentonline.cc:42069/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.ftorrent.com:443/announce
@@ -137,6 +141,8 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.lain.moscow:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -182,8 +188,6 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.govt.hu:6969/announce
@@ -196,7 +200,7 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.opentorrent.top:6969/announce
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 

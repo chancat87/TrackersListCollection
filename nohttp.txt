@@ -12,8 +12,6 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://coeus.torrentonline.cc:42069/announce
-
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -30,8 +28,6 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://obey.torrentonline.cc:42069/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.ftorrent.com:443/announce
@@ -41,6 +37,8 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.ink:6969/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.lain.moscow:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -86,8 +84,6 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.govt.hu:6969/announce
@@ -100,7 +96,7 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.nyaa.net:6969/announce
 
-udp://tracker.opentorrent.top:6969/announce
+udp://tracker.nyaa.vc:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
